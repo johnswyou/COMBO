@@ -1,6 +1,5 @@
-gputil
-psutil
-simanneal==0.4.2
-toposort
-torch==1.6.0
-torchvision==0.7.0
+conda install -c conda-forge gputil
+conda install -c conda-forge psutil
+conda install -c conda-forge simanneal==0.4.2
+conda install -c conda-forge toposort
+conda install pytorch==1.6.0 torchvision==0.7.0 -c pytorch
