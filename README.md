@@ -17,6 +17,7 @@ git clone https://github.com/QUVA-Lab/COMBO.git
 ```bash
 conda activate COMBO
 conda install --file requirements.txt
+pip install .
 ```
 
 
